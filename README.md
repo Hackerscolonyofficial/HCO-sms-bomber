@@ -10,6 +10,7 @@
 2.𝙥𝙠𝙜 𝙞𝙣𝙨𝙩𝙖𝙡𝙡 𝙜𝙞𝙩 -𝙮
 
 3.git clone https://github.com/Hackerscolonyofficial/HCO-sms-bomber
+
 4.𝙘𝙙 𝙃𝘾𝙊-𝘽𝙤𝙢𝙗𝙚𝙧
 
 5.𝙘𝙝𝙢𝙤𝙙 +𝙭 *
